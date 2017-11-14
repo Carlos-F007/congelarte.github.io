@@ -358,7 +358,7 @@ img::-moz-selection {
     background: 0 0;
 }
 
-#first .smashinglogo{
+first .smashinglogo{
    background: url(../img/Congelarte_Slide webFD.png); 
    background-size:100% auto;
 }
