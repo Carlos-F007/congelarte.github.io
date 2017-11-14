@@ -9,7 +9,6 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background: url(../img/Congelarte_Slide webFD.png) no-repeat scroll;
     
 }
 
@@ -359,4 +358,7 @@ img::-moz-selection {
     background: 0 0;
 }
 
-
+#first .smashinglogo{
+   background: url(../img/Congelarte_Slide webFD.png); 
+   background-size:100% auto;
+}
